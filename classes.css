@@ -65,7 +65,7 @@
 }
 .photol-right { /* landscape 4x3 image to the right */
   float: right;
-  width: 24rem;
+  width: 16rem;
   margin: 1rem 0 1rem 1rem;
   box-shadow: 8px 8px 10px 4px var(--shadow); /* right and bottom shadow, blur, spread and colour */
 }
@@ -76,7 +76,7 @@
 }
 .photol-left { /* landscape 4x3 image to the left */
   float: left;
-  width: 24rem;
+  width: 16rem;
   margin: 1rem 1rem 1rem 0;
   box-shadow: 8px 8px 10px 4px var(--shadow); /* right and bottom shadow, blur, spread and colour */
 }
