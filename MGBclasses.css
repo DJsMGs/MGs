@@ -1,0 +1,9 @@
+/* classes for MGs */
+
+.photol-left { /* landscape 4x3 image to the left */
+  float: left;
+  width: 30%;
+  height: auto;
+  margin: 1rem 1rem 1rem 0;
+  box-shadow: 8px 8px 10px 4px var(--shadow); /* right and bottom shadow, blur, spread and colour */
+}
